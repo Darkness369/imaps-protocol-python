@@ -1,6 +1,6 @@
 import imaplib
 import email
-import os 
+import os
 from  dotenv import load_dotenv
 load_dotenv()
 host = 'imap.outlook.com'
